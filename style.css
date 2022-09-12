@@ -40,10 +40,14 @@ ul{
     background-color: #20A9E5;
     color: white;
     font-size: 20px;
+    text-align: left;
 }
 table{
     font-size:20px;
 }
 .rigadispari{
-    background-color: #20A9E5;
+    background-color: #B1E5F2;
+}
+.colonna12{
+    width: 300px;
 }
