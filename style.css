@@ -36,3 +36,14 @@ ul{
     padding-left: 18px;
     font-size: 25px;
 }
+#headrow{
+    background-color: #20A9E5;
+    color: white;
+    font-size: 20px;
+}
+table{
+    font-size:20px;
+}
+.rigadispari{
+    background-color: #20A9E5;
+}
